@@ -1,0 +1,5 @@
+ mongodbConfig:
+  mongoUrl: Dummy
+  mongodb: mongoconfig
+  mongoCollection: configdata
+ 
